@@ -8,3 +8,9 @@ Alpha Vantage delivers a free API for real time financial data and most used fin
 pip install alpha-vantage
 
 
+To install the package use:
+
+pip install alpha_vantage
+
+
+
